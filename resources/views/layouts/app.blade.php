@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Task List
+                    APP Tareas de Elena Cárdenas-0924794910 / Ivonne Farías-091894169
                 </a>
             </div>
 
